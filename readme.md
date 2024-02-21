@@ -33,3 +33,13 @@ Una vez tenemos abierto el visual studio vamos a abrir el terminal **(*Control+�
 En este apartado vamos a usar un nuevo comando para la terminal que es el "git add ." donde si lo ponemos vamos a hacer que todo lo que este en el repositorio local se suba al staging area i podamos, a partir de alli, tener el archivo original i poder hacer modificaciones sin dañar el archivo que ya funciona.
 
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/imagenes/foto4.png ) 
+
+Con el "Git status" vas a ver QUÉ tienes en la staging area listo para empaquetar, entonces, para empaquetar la información tenemos que hacer un "commit"
+
+---
+
+### **COMO HACER UN COMMIT**
+
+---
+
+El comando para hacer 
